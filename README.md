@@ -6,10 +6,6 @@ This is a solution to the https://stackoverflow.com/beta/challenges/79838396/cha
 * Overview
 * The challenge
 * Links
-* My process
-* Built with
-* What I learned
-* Useful resources
 * Author
 
 **Overview**
